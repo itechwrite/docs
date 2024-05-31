@@ -53,6 +53,10 @@
       "group": "Get Started",
       "pages": [
         "introduction",
+        {
+        "group": "Task Reference",
+        "pages": ["task-reference/switch"]
+        },
         "quickstart",
         "development"
       ]
