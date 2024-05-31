@@ -54,6 +54,7 @@
       "pages": [
         "introduction",
         {
+        "group": "Task Ref",
         "pages": ["task-reference/switch", "task-reference/loop"]
         },
         "quickstart",
